@@ -1,0 +1,17 @@
+.header {
+    background-color: #2F8F9D; /* Header arka plan rengi */
+    color: #fff; /* Metin rengi */
+    padding: 10px 20px; /* Dolgu (padding) ayarı */
+}
+
+.header img {
+    height: 60px; /* Logo yüksekliği */
+    margin-right: 10px; /* Logo ile site adı arasındaki boşluk */
+}
+
+/* Şehir seçimi bölümünün stillemesi */
+.city-selection {
+    border: 1px solid #ccc; /* Kenarlık (border) rengi ve kalınlığı */
+    padding: 20px; /* Dolgu (padding) ayarı */
+    border-radius: 10px; /* Kenar yuvarlaklığı */
+}
